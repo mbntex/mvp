@@ -17,28 +17,27 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+T.M.I : TEXT MOOD INTERPRETER
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
-
-## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  THIS IS THE PERFECT PRODUCT FOR PEOPLE WHO CANT READ EMOTIONS WELL. 
+## Summary ##  
+	ARE YOU UNSURE WHAT MOOD SOMEONES MESSAGE IS CONVEYING? BE MATHY WITH YOUR EMOTIONS!
 
 ## Problem ##
-  > Describe the problem your product solves.
+BEING UNSURE ABOUT THE EMOTIONAL CONTEXT OF A MESSAGE.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+TMI OFFERS A SECOND OPINION. 
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+"BE MATHY WITH YOUR EMOTIONS!"
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  ENTER A MESSAGE YOU RECEIVED AND SEE WHAT THE PERSONS MOOD IS. 
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  OMG WE ARE TOTALLY ABOUT TO HAVE AN ARGUMENT BUT WITH TMI, I KNEW WHAT THEY WERE THINKING BETTER THAN THEY DID.  
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  ENTER TEXT AND SEE THE WRITER'S MOOD RIGHT AWAY!
